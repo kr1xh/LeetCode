@@ -20,4 +20,8 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kr1xh/LeetCode/tree/master/0005-longest-palindromic-substring) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/kr1xh/LeetCode/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
