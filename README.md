@@ -31,6 +31,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kr1xh/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/kr1xh/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/kr1xh/LeetCode/tree/master/0022-generate-parentheses) |
+| [0067-add-binary](https://github.com/kr1xh/LeetCode/tree/master/0067-add-binary) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -44,6 +45,7 @@
 | [0009-palindrome-number](https://github.com/kr1xh/LeetCode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/kr1xh/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/kr1xh/LeetCode/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/kr1xh/LeetCode/tree/master/0067-add-binary) |
 ## Recursion
 |  |
 | ------- |
@@ -114,5 +116,10 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/kr1xh/LeetCode/tree/master/0067-add-binary) |
 | [1929-concatenation-of-array](https://github.com/kr1xh/LeetCode/tree/master/1929-concatenation-of-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/kr1xh/LeetCode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
