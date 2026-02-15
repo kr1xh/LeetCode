@@ -61,6 +61,7 @@
 | [0018-4sum](https://github.com/kr1xh/LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kr1xh/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/kr1xh/LeetCode/tree/master/0027-remove-element) |
+| [1929-concatenation-of-array](https://github.com/kr1xh/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Greedy
 |  |
 | ------- |
@@ -110,4 +111,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/kr1xh/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/kr1xh/LeetCode/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
