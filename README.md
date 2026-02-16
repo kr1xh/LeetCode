@@ -8,6 +8,7 @@
 | [0176-second-highest-salary](https://github.com/kr1xh/LeetCode/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/kr1xh/LeetCode/tree/master/0177-nth-highest-salary) |
 | [0595-big-countries](https://github.com/kr1xh/LeetCode/tree/master/0595-big-countries) |
+| [1757-recyclable-and-low-fat-products](https://github.com/kr1xh/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
 ## Two Pointers
 |  |
 | ------- |
