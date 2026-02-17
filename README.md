@@ -12,6 +12,7 @@
 | [1148-article-views-i](https://github.com/kr1xh/LeetCode/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/kr1xh/LeetCode/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/kr1xh/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
+| [1873-calculate-special-bonus](https://github.com/kr1xh/LeetCode/tree/master/1873-calculate-special-bonus) |
 ## Two Pointers
 |  |
 | ------- |
