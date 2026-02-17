@@ -106,6 +106,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kr1xh/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/kr1xh/LeetCode/tree/master/0022-generate-parentheses) |
+| [0401-binary-watch](https://github.com/kr1xh/LeetCode/tree/master/0401-binary-watch) |
 ## Linked List
 |  |
 | ------- |
@@ -144,6 +145,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/kr1xh/LeetCode/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/kr1xh/LeetCode/tree/master/0190-reverse-bits) |
+| [0401-binary-watch](https://github.com/kr1xh/LeetCode/tree/master/0401-binary-watch) |
 | [0645-set-mismatch](https://github.com/kr1xh/LeetCode/tree/master/0645-set-mismatch) |
 ## Counting Sort
 |  |
