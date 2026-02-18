@@ -156,6 +156,7 @@
 | [0190-reverse-bits](https://github.com/kr1xh/LeetCode/tree/master/0190-reverse-bits) |
 | [0401-binary-watch](https://github.com/kr1xh/LeetCode/tree/master/0401-binary-watch) |
 | [0645-set-mismatch](https://github.com/kr1xh/LeetCode/tree/master/0645-set-mismatch) |
+| [0693-binary-number-with-alternating-bits](https://github.com/kr1xh/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
 ## Counting Sort
 |  |
 | ------- |
