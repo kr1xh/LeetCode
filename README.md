@@ -42,6 +42,7 @@
 | [0020-valid-parentheses](https://github.com/kr1xh/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/kr1xh/LeetCode/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/kr1xh/LeetCode/tree/master/0067-add-binary) |
+| [0166-fraction-to-recurring-decimal](https://github.com/kr1xh/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0761-special-binary-string](https://github.com/kr1xh/LeetCode/tree/master/0761-special-binary-string) |
 ## Dynamic Programming
 |  |
@@ -58,6 +59,7 @@
 | [0013-roman-to-integer](https://github.com/kr1xh/LeetCode/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/kr1xh/LeetCode/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kr1xh/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0166-fraction-to-recurring-decimal](https://github.com/kr1xh/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 ## Recursion
 |  |
 | ------- |
@@ -97,6 +99,7 @@
 | [0012-integer-to-roman](https://github.com/kr1xh/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/kr1xh/LeetCode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kr1xh/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0166-fraction-to-recurring-decimal](https://github.com/kr1xh/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kr1xh/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/kr1xh/LeetCode/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kr1xh/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
