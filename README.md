@@ -62,6 +62,7 @@
 | [0067-add-binary](https://github.com/kr1xh/LeetCode/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kr1xh/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0166-fraction-to-recurring-decimal](https://github.com/kr1xh/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/kr1xh/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Recursion
 |  |
 | ------- |
@@ -172,6 +173,7 @@
 | [0401-binary-watch](https://github.com/kr1xh/LeetCode/tree/master/0401-binary-watch) |
 | [0645-set-mismatch](https://github.com/kr1xh/LeetCode/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/kr1xh/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/kr1xh/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Counting Sort
 |  |
 | ------- |
