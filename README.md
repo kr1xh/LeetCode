@@ -88,6 +88,7 @@
 | [0636-exclusive-time-of-functions](https://github.com/kr1xh/LeetCode/tree/master/0636-exclusive-time-of-functions) |
 | [0645-set-mismatch](https://github.com/kr1xh/LeetCode/tree/master/0645-set-mismatch) |
 | [0739-daily-temperatures](https://github.com/kr1xh/LeetCode/tree/master/0739-daily-temperatures) |
+| [1354-construct-target-array-with-multiple-sums](https://github.com/kr1xh/LeetCode/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kr1xh/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1441-build-an-array-with-stack-operations](https://github.com/kr1xh/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/kr1xh/LeetCode/tree/master/1470-shuffle-the-array) |
@@ -155,6 +156,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/kr1xh/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/kr1xh/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [1354-construct-target-array-with-multiple-sums](https://github.com/kr1xh/LeetCode/tree/master/1354-construct-target-array-with-multiple-sums) |
 ## Merge Sort
 |  |
 | ------- |
