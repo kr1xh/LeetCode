@@ -50,6 +50,7 @@
 | [0482-license-key-formatting](https://github.com/kr1xh/LeetCode/tree/master/0482-license-key-formatting) |
 | [0520-detect-capital](https://github.com/kr1xh/LeetCode/tree/master/0520-detect-capital) |
 | [0761-special-binary-string](https://github.com/kr1xh/LeetCode/tree/master/0761-special-binary-string) |
+| [0831-masking-personal-information](https://github.com/kr1xh/LeetCode/tree/master/0831-masking-personal-information) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/kr1xh/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Dynamic Programming
 |  |
