@@ -51,6 +51,7 @@
 | [0482-license-key-formatting](https://github.com/kr1xh/LeetCode/tree/master/0482-license-key-formatting) |
 | [0520-detect-capital](https://github.com/kr1xh/LeetCode/tree/master/0520-detect-capital) |
 | [0761-special-binary-string](https://github.com/kr1xh/LeetCode/tree/master/0761-special-binary-string) |
+| [0796-rotate-string](https://github.com/kr1xh/LeetCode/tree/master/0796-rotate-string) |
 | [0831-masking-personal-information](https://github.com/kr1xh/LeetCode/tree/master/0831-masking-personal-information) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/kr1xh/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Dynamic Programming
@@ -208,4 +209,5 @@
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/kr1xh/LeetCode/tree/master/0459-repeated-substring-pattern) |
+| [0796-rotate-string](https://github.com/kr1xh/LeetCode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
