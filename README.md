@@ -50,6 +50,7 @@
 | [0459-repeated-substring-pattern](https://github.com/kr1xh/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0482-license-key-formatting](https://github.com/kr1xh/LeetCode/tree/master/0482-license-key-formatting) |
 | [0520-detect-capital](https://github.com/kr1xh/LeetCode/tree/master/0520-detect-capital) |
+| [0686-repeated-string-match](https://github.com/kr1xh/LeetCode/tree/master/0686-repeated-string-match) |
 | [0761-special-binary-string](https://github.com/kr1xh/LeetCode/tree/master/0761-special-binary-string) |
 | [0796-rotate-string](https://github.com/kr1xh/LeetCode/tree/master/0796-rotate-string) |
 | [0831-masking-personal-information](https://github.com/kr1xh/LeetCode/tree/master/0831-masking-personal-information) |
@@ -209,5 +210,6 @@
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/kr1xh/LeetCode/tree/master/0459-repeated-substring-pattern) |
+| [0686-repeated-string-match](https://github.com/kr1xh/LeetCode/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/kr1xh/LeetCode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
