@@ -148,6 +148,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/kr1xh/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/kr1xh/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/kr1xh/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/kr1xh/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Stack
 |  |
 | ------- |
