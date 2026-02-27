@@ -95,6 +95,7 @@
 | [0018-4sum](https://github.com/kr1xh/LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kr1xh/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/kr1xh/LeetCode/tree/master/0027-remove-element) |
+| [0041-first-missing-positive](https://github.com/kr1xh/LeetCode/tree/master/0041-first-missing-positive) |
 | [0084-largest-rectangle-in-histogram](https://github.com/kr1xh/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kr1xh/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/kr1xh/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -121,6 +122,7 @@
 | [0012-integer-to-roman](https://github.com/kr1xh/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/kr1xh/LeetCode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kr1xh/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0041-first-missing-positive](https://github.com/kr1xh/LeetCode/tree/master/0041-first-missing-positive) |
 | [0138-copy-list-with-random-pointer](https://github.com/kr1xh/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0166-fraction-to-recurring-decimal](https://github.com/kr1xh/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kr1xh/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
