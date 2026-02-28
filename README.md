@@ -112,6 +112,7 @@
 | [1470-shuffle-the-array](https://github.com/kr1xh/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/kr1xh/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1590-make-sum-divisible-by-p](https://github.com/kr1xh/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
+| [1664-ways-to-make-a-fair-array](https://github.com/kr1xh/LeetCode/tree/master/1664-ways-to-make-a-fair-array) |
 | [1929-concatenation-of-array](https://github.com/kr1xh/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Greedy
 |  |
@@ -265,4 +266,5 @@
 |  |
 | ------- |
 | [1590-make-sum-divisible-by-p](https://github.com/kr1xh/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
+| [1664-ways-to-make-a-fair-array](https://github.com/kr1xh/LeetCode/tree/master/1664-ways-to-make-a-fair-array) |
 <!---LeetCode Topics End-->
