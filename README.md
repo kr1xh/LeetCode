@@ -98,6 +98,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kr1xh/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/kr1xh/LeetCode/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/kr1xh/LeetCode/tree/master/0041-first-missing-positive) |
+| [0056-merge-intervals](https://github.com/kr1xh/LeetCode/tree/master/0056-merge-intervals) |
 | [0084-largest-rectangle-in-histogram](https://github.com/kr1xh/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kr1xh/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/kr1xh/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -147,6 +148,7 @@
 | [0015-3sum](https://github.com/kr1xh/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/kr1xh/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/kr1xh/LeetCode/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/kr1xh/LeetCode/tree/master/0056-merge-intervals) |
 | [0645-set-mismatch](https://github.com/kr1xh/LeetCode/tree/master/0645-set-mismatch) |
 | [0761-special-binary-string](https://github.com/kr1xh/LeetCode/tree/master/0761-special-binary-string) |
 | [1200-minimum-absolute-difference](https://github.com/kr1xh/LeetCode/tree/master/1200-minimum-absolute-difference) |
