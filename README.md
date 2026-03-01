@@ -108,6 +108,7 @@
 | [0636-exclusive-time-of-functions](https://github.com/kr1xh/LeetCode/tree/master/0636-exclusive-time-of-functions) |
 | [0645-set-mismatch](https://github.com/kr1xh/LeetCode/tree/master/0645-set-mismatch) |
 | [0739-daily-temperatures](https://github.com/kr1xh/LeetCode/tree/master/0739-daily-temperatures) |
+| [0912-sort-an-array](https://github.com/kr1xh/LeetCode/tree/master/0912-sort-an-array) |
 | [1200-minimum-absolute-difference](https://github.com/kr1xh/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/kr1xh/LeetCode/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/kr1xh/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -153,6 +154,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/kr1xh/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0645-set-mismatch](https://github.com/kr1xh/LeetCode/tree/master/0645-set-mismatch) |
 | [0761-special-binary-string](https://github.com/kr1xh/LeetCode/tree/master/0761-special-binary-string) |
+| [0912-sort-an-array](https://github.com/kr1xh/LeetCode/tree/master/0912-sort-an-array) |
 | [1200-minimum-absolute-difference](https://github.com/kr1xh/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/kr1xh/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kr1xh/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -192,17 +194,20 @@
 | [0190-reverse-bits](https://github.com/kr1xh/LeetCode/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kr1xh/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0761-special-binary-string](https://github.com/kr1xh/LeetCode/tree/master/0761-special-binary-string) |
+| [0912-sort-an-array](https://github.com/kr1xh/LeetCode/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/kr1xh/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kr1xh/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/kr1xh/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0912-sort-an-array](https://github.com/kr1xh/LeetCode/tree/master/0912-sort-an-array) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/kr1xh/LeetCode/tree/master/1354-construct-target-array-with-multiple-sums) |
 ## Merge Sort
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/kr1xh/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0912-sort-an-array](https://github.com/kr1xh/LeetCode/tree/master/0912-sort-an-array) |
 ## Simulation
 |  |
 | ------- |
@@ -228,6 +233,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/kr1xh/LeetCode/tree/master/0912-sort-an-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/kr1xh/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kr1xh/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Monotonic Stack
@@ -283,4 +289,12 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/kr1xh/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/kr1xh/LeetCode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/kr1xh/LeetCode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
