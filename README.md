@@ -117,6 +117,7 @@
 | [1441-build-an-array-with-stack-operations](https://github.com/kr1xh/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/kr1xh/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/kr1xh/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/kr1xh/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1590-make-sum-divisible-by-p](https://github.com/kr1xh/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1664-ways-to-make-a-fair-array](https://github.com/kr1xh/LeetCode/tree/master/1664-ways-to-make-a-fair-array) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/kr1xh/LeetCode/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
@@ -125,6 +126,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/kr1xh/LeetCode/tree/master/0011-container-with-most-water) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/kr1xh/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/kr1xh/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Hash Table
 |  |
@@ -298,4 +300,8 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/kr1xh/LeetCode/tree/master/0912-sort-an-array) |
+## Matrix
+|  |
+| ------- |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/kr1xh/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 <!---LeetCode Topics End-->
