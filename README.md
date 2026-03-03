@@ -102,6 +102,7 @@
 | [0018-4sum](https://github.com/kr1xh/LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kr1xh/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/kr1xh/LeetCode/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/kr1xh/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/kr1xh/LeetCode/tree/master/0041-first-missing-positive) |
 | [0056-merge-intervals](https://github.com/kr1xh/LeetCode/tree/master/0056-merge-intervals) |
 | [0084-largest-rectangle-in-histogram](https://github.com/kr1xh/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -316,6 +317,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/kr1xh/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/kr1xh/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/kr1xh/LeetCode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/kr1xh/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
