@@ -130,6 +130,7 @@
 | [1470-shuffle-the-array](https://github.com/kr1xh/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/kr1xh/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/kr1xh/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/kr1xh/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1590-make-sum-divisible-by-p](https://github.com/kr1xh/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1664-ways-to-make-a-fair-array](https://github.com/kr1xh/LeetCode/tree/master/1664-ways-to-make-a-fair-array) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/kr1xh/LeetCode/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
@@ -327,6 +328,7 @@
 |  |
 | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/kr1xh/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/kr1xh/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Binary Search
 |  |
 | ------- |
