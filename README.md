@@ -53,6 +53,7 @@
 | [0067-add-binary](https://github.com/kr1xh/LeetCode/tree/master/0067-add-binary) |
 | [0166-fraction-to-recurring-decimal](https://github.com/kr1xh/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0214-shortest-palindrome](https://github.com/kr1xh/LeetCode/tree/master/0214-shortest-palindrome) |
+| [0394-decode-string](https://github.com/kr1xh/LeetCode/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/kr1xh/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0459-repeated-substring-pattern](https://github.com/kr1xh/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0482-license-key-formatting](https://github.com/kr1xh/LeetCode/tree/master/0482-license-key-formatting) |
@@ -100,6 +101,7 @@
 | [0024-swap-nodes-in-pairs](https://github.com/kr1xh/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/kr1xh/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/kr1xh/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0394-decode-string](https://github.com/kr1xh/LeetCode/tree/master/0394-decode-string) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/kr1xh/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Array
 |  |
@@ -216,6 +218,7 @@
 | [0020-valid-parentheses](https://github.com/kr1xh/LeetCode/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/kr1xh/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kr1xh/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0394-decode-string](https://github.com/kr1xh/LeetCode/tree/master/0394-decode-string) |
 | [0636-exclusive-time-of-functions](https://github.com/kr1xh/LeetCode/tree/master/0636-exclusive-time-of-functions) |
 | [0739-daily-temperatures](https://github.com/kr1xh/LeetCode/tree/master/0739-daily-temperatures) |
 | [1441-build-an-array-with-stack-operations](https://github.com/kr1xh/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
