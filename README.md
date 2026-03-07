@@ -66,6 +66,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kr1xh/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1392-longest-happy-prefix](https://github.com/kr1xh/LeetCode/tree/master/1392-longest-happy-prefix) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/kr1xh/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/kr1xh/LeetCode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/kr1xh/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/kr1xh/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/kr1xh/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -203,6 +204,7 @@
 | [0077-combinations](https://github.com/kr1xh/LeetCode/tree/master/0077-combinations) |
 | [0093-restore-ip-addresses](https://github.com/kr1xh/LeetCode/tree/master/0093-restore-ip-addresses) |
 | [0401-binary-watch](https://github.com/kr1xh/LeetCode/tree/master/0401-binary-watch) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/kr1xh/LeetCode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 ## Linked List
 |  |
 | ------- |
