@@ -336,6 +336,7 @@
 | [0797-all-paths-from-source-to-target](https://github.com/kr1xh/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/kr1xh/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1971-find-if-path-exists-in-graph](https://github.com/kr1xh/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/kr1xh/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Binary Tree
 |  |
 | ------- |
@@ -346,6 +347,7 @@
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/kr1xh/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [1971-find-if-path-exists-in-graph](https://github.com/kr1xh/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/kr1xh/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/kr1xh/LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Union-Find
 |  |
@@ -353,6 +355,7 @@
 | [0952-largest-component-size-by-common-factor](https://github.com/kr1xh/LeetCode/tree/master/0952-largest-component-size-by-common-factor) |
 | [1971-find-if-path-exists-in-graph](https://github.com/kr1xh/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2076-process-restricted-friend-requests](https://github.com/kr1xh/LeetCode/tree/master/2076-process-restricted-friend-requests) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/kr1xh/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/kr1xh/LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Ordered Set
 |  |
@@ -422,5 +425,6 @@
 | [1971-find-if-path-exists-in-graph](https://github.com/kr1xh/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2065-maximum-path-quality-of-a-graph](https://github.com/kr1xh/LeetCode/tree/master/2065-maximum-path-quality-of-a-graph) |
 | [2076-process-restricted-friend-requests](https://github.com/kr1xh/LeetCode/tree/master/2076-process-restricted-friend-requests) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/kr1xh/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2508-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/kr1xh/LeetCode/tree/master/2508-add-edges-to-make-degrees-of-all-nodes-even) |
 <!---LeetCode Topics End-->
