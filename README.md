@@ -213,6 +213,7 @@
 | [0077-combinations](https://github.com/kr1xh/LeetCode/tree/master/0077-combinations) |
 | [0093-restore-ip-addresses](https://github.com/kr1xh/LeetCode/tree/master/0093-restore-ip-addresses) |
 | [0401-binary-watch](https://github.com/kr1xh/LeetCode/tree/master/0401-binary-watch) |
+| [0797-all-paths-from-source-to-target](https://github.com/kr1xh/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/kr1xh/LeetCode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/kr1xh/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2065-maximum-path-quality-of-a-graph](https://github.com/kr1xh/LeetCode/tree/master/2065-maximum-path-quality-of-a-graph) |
@@ -332,6 +333,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/kr1xh/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/kr1xh/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1971-find-if-path-exists-in-graph](https://github.com/kr1xh/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
@@ -342,6 +344,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/kr1xh/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [1971-find-if-path-exists-in-graph](https://github.com/kr1xh/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/kr1xh/LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Union-Find
@@ -414,6 +417,7 @@
 ## Graph Theory
 |  |
 | ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/kr1xh/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/kr1xh/LeetCode/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1971-find-if-path-exists-in-graph](https://github.com/kr1xh/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2065-maximum-path-quality-of-a-graph](https://github.com/kr1xh/LeetCode/tree/master/2065-maximum-path-quality-of-a-graph) |
