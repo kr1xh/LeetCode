@@ -183,6 +183,7 @@
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/kr1xh/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1590-make-sum-divisible-by-p](https://github.com/kr1xh/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1980-find-unique-binary-string](https://github.com/kr1xh/LeetCode/tree/master/1980-find-unique-binary-string) |
+| [2508-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/kr1xh/LeetCode/tree/master/2508-add-edges-to-make-degrees-of-all-nodes-even) |
 ## Trie
 |  |
 | ------- |
@@ -410,4 +411,5 @@
 | ------- |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/kr1xh/LeetCode/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [2076-process-restricted-friend-requests](https://github.com/kr1xh/LeetCode/tree/master/2076-process-restricted-friend-requests) |
+| [2508-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/kr1xh/LeetCode/tree/master/2508-add-edges-to-make-degrees-of-all-nodes-even) |
 <!---LeetCode Topics End-->
