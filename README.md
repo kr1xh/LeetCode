@@ -131,6 +131,7 @@
 | [0219-contains-duplicate-ii](https://github.com/kr1xh/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/kr1xh/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kr1xh/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0463-island-perimeter](https://github.com/kr1xh/LeetCode/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/kr1xh/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/kr1xh/LeetCode/tree/master/0493-reverse-pairs) |
 | [0636-exclusive-time-of-functions](https://github.com/kr1xh/LeetCode/tree/master/0636-exclusive-time-of-functions) |
@@ -333,6 +334,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0463-island-perimeter](https://github.com/kr1xh/LeetCode/tree/master/0463-island-perimeter) |
 | [0797-all-paths-from-source-to-target](https://github.com/kr1xh/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/kr1xh/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1971-find-if-path-exists-in-graph](https://github.com/kr1xh/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
@@ -345,6 +347,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0463-island-perimeter](https://github.com/kr1xh/LeetCode/tree/master/0463-island-perimeter) |
 | [0797-all-paths-from-source-to-target](https://github.com/kr1xh/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [1971-find-if-path-exists-in-graph](https://github.com/kr1xh/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/kr1xh/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -383,6 +386,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0463-island-perimeter](https://github.com/kr1xh/LeetCode/tree/master/0463-island-perimeter) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/kr1xh/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/kr1xh/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Binary Search
