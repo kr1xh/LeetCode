@@ -272,6 +272,7 @@
 | [0743-network-delay-time](https://github.com/kr1xh/LeetCode/tree/master/0743-network-delay-time) |
 | [0912-sort-an-array](https://github.com/kr1xh/LeetCode/tree/master/0912-sort-an-array) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/kr1xh/LeetCode/tree/master/1354-construct-target-array-with-multiple-sums) |
+| [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/kr1xh/LeetCode/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
 ## Merge Sort
 |  |
 | ------- |
@@ -456,6 +457,7 @@
 | [1971-find-if-path-exists-in-graph](https://github.com/kr1xh/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2065-maximum-path-quality-of-a-graph](https://github.com/kr1xh/LeetCode/tree/master/2065-maximum-path-quality-of-a-graph) |
 | [2076-process-restricted-friend-requests](https://github.com/kr1xh/LeetCode/tree/master/2076-process-restricted-friend-requests) |
+| [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/kr1xh/LeetCode/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/kr1xh/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2508-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/kr1xh/LeetCode/tree/master/2508-add-edges-to-make-degrees-of-all-nodes-even) |
 | [2685-count-the-number-of-complete-components](https://github.com/kr1xh/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
@@ -468,4 +470,5 @@
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/kr1xh/LeetCode/tree/master/0743-network-delay-time) |
+| [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/kr1xh/LeetCode/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
 <!---LeetCode Topics End-->
