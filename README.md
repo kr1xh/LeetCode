@@ -102,6 +102,7 @@
 | [0932-beautiful-array](https://github.com/kr1xh/LeetCode/tree/master/0932-beautiful-array) |
 | [0952-largest-component-size-by-common-factor](https://github.com/kr1xh/LeetCode/tree/master/0952-largest-component-size-by-common-factor) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/kr1xh/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/kr1xh/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/kr1xh/LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Recursion
 |  |
@@ -163,12 +164,14 @@
 | [1929-concatenation-of-array](https://github.com/kr1xh/LeetCode/tree/master/1929-concatenation-of-array) |
 | [1980-find-unique-binary-string](https://github.com/kr1xh/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2065-maximum-path-quality-of-a-graph](https://github.com/kr1xh/LeetCode/tree/master/2065-maximum-path-quality-of-a-graph) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/kr1xh/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/kr1xh/LeetCode/tree/master/0011-container-with-most-water) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/kr1xh/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/kr1xh/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/kr1xh/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/kr1xh/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Hash Table
 |  |
@@ -275,6 +278,7 @@
 | [1354-construct-target-array-with-multiple-sums](https://github.com/kr1xh/LeetCode/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/kr1xh/LeetCode/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/kr1xh/LeetCode/tree/master/2642-design-graph-with-shortest-path-calculator) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/kr1xh/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Merge Sort
 |  |
 | ------- |
@@ -424,6 +428,7 @@
 | [0704-binary-search](https://github.com/kr1xh/LeetCode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/kr1xh/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/kr1xh/LeetCode/tree/master/2223-sum-of-scores-of-built-strings) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/kr1xh/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/kr1xh/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Binary Indexed Tree
 |  |
