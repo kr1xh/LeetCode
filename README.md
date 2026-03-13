@@ -350,6 +350,7 @@
 |  |
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kr1xh/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0687-longest-univalue-path](https://github.com/kr1xh/LeetCode/tree/master/0687-longest-univalue-path) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/kr1xh/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/kr1xh/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2236-root-equals-sum-of-children](https://github.com/kr1xh/LeetCode/tree/master/2236-root-equals-sum-of-children) |
@@ -357,6 +358,7 @@
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/kr1xh/LeetCode/tree/master/0463-island-perimeter) |
+| [0687-longest-univalue-path](https://github.com/kr1xh/LeetCode/tree/master/0687-longest-univalue-path) |
 | [0743-network-delay-time](https://github.com/kr1xh/LeetCode/tree/master/0743-network-delay-time) |
 | [0797-all-paths-from-source-to-target](https://github.com/kr1xh/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/kr1xh/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -367,6 +369,7 @@
 |  |
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kr1xh/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0687-longest-univalue-path](https://github.com/kr1xh/LeetCode/tree/master/0687-longest-univalue-path) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/kr1xh/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/kr1xh/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2236-root-equals-sum-of-children](https://github.com/kr1xh/LeetCode/tree/master/2236-root-equals-sum-of-children) |
