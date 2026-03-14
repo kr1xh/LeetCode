@@ -61,6 +61,7 @@
 | [0482-license-key-formatting](https://github.com/kr1xh/LeetCode/tree/master/0482-license-key-formatting) |
 | [0520-detect-capital](https://github.com/kr1xh/LeetCode/tree/master/0520-detect-capital) |
 | [0686-repeated-string-match](https://github.com/kr1xh/LeetCode/tree/master/0686-repeated-string-match) |
+| [0720-longest-word-in-dictionary](https://github.com/kr1xh/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0761-special-binary-string](https://github.com/kr1xh/LeetCode/tree/master/0761-special-binary-string) |
 | [0796-rotate-string](https://github.com/kr1xh/LeetCode/tree/master/0796-rotate-string) |
 | [0831-masking-personal-information](https://github.com/kr1xh/LeetCode/tree/master/0831-masking-personal-information) |
@@ -142,6 +143,7 @@
 | [0636-exclusive-time-of-functions](https://github.com/kr1xh/LeetCode/tree/master/0636-exclusive-time-of-functions) |
 | [0645-set-mismatch](https://github.com/kr1xh/LeetCode/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/kr1xh/LeetCode/tree/master/0704-binary-search) |
+| [0720-longest-word-in-dictionary](https://github.com/kr1xh/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0731-my-calendar-ii](https://github.com/kr1xh/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0739-daily-temperatures](https://github.com/kr1xh/LeetCode/tree/master/0739-daily-temperatures) |
 | [0815-bus-routes](https://github.com/kr1xh/LeetCode/tree/master/0815-bus-routes) |
@@ -193,6 +195,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/kr1xh/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kr1xh/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/kr1xh/LeetCode/tree/master/0645-set-mismatch) |
+| [0720-longest-word-in-dictionary](https://github.com/kr1xh/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0815-bus-routes](https://github.com/kr1xh/LeetCode/tree/master/0815-bus-routes) |
 | [0952-largest-component-size-by-common-factor](https://github.com/kr1xh/LeetCode/tree/master/0952-largest-component-size-by-common-factor) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/kr1xh/LeetCode/tree/master/1311-get-watched-videos-by-your-friends) |
@@ -207,6 +210,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/kr1xh/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0720-longest-word-in-dictionary](https://github.com/kr1xh/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 ## Sorting
 |  |
 | ------- |
@@ -217,6 +221,7 @@
 | [0147-insertion-sort-list](https://github.com/kr1xh/LeetCode/tree/master/0147-insertion-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kr1xh/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0645-set-mismatch](https://github.com/kr1xh/LeetCode/tree/master/0645-set-mismatch) |
+| [0720-longest-word-in-dictionary](https://github.com/kr1xh/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0761-special-binary-string](https://github.com/kr1xh/LeetCode/tree/master/0761-special-binary-string) |
 | [0912-sort-an-array](https://github.com/kr1xh/LeetCode/tree/master/0912-sort-an-array) |
 | [1200-minimum-absolute-difference](https://github.com/kr1xh/LeetCode/tree/master/1200-minimum-absolute-difference) |
