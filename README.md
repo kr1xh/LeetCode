@@ -210,6 +210,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/kr1xh/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0440-k-th-smallest-in-lexicographical-order](https://github.com/kr1xh/LeetCode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [0720-longest-word-in-dictionary](https://github.com/kr1xh/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 ## Sorting
 |  |
