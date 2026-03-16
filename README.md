@@ -149,6 +149,7 @@
 | [0739-daily-temperatures](https://github.com/kr1xh/LeetCode/tree/master/0739-daily-temperatures) |
 | [0815-bus-routes](https://github.com/kr1xh/LeetCode/tree/master/0815-bus-routes) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/kr1xh/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0860-lemonade-change](https://github.com/kr1xh/LeetCode/tree/master/0860-lemonade-change) |
 | [0912-sort-an-array](https://github.com/kr1xh/LeetCode/tree/master/0912-sort-an-array) |
 | [0932-beautiful-array](https://github.com/kr1xh/LeetCode/tree/master/0932-beautiful-array) |
 | [0952-largest-component-size-by-common-factor](https://github.com/kr1xh/LeetCode/tree/master/0952-largest-component-size-by-common-factor) |
@@ -178,6 +179,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/kr1xh/LeetCode/tree/master/0011-container-with-most-water) |
+| [0860-lemonade-change](https://github.com/kr1xh/LeetCode/tree/master/0860-lemonade-change) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/kr1xh/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/kr1xh/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/kr1xh/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
