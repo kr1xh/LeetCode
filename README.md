@@ -161,6 +161,7 @@
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/kr1xh/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/kr1xh/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/kr1xh/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1584-min-cost-to-connect-all-points](https://github.com/kr1xh/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1590-make-sum-divisible-by-p](https://github.com/kr1xh/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1664-ways-to-make-a-fair-array](https://github.com/kr1xh/LeetCode/tree/master/1664-ways-to-make-a-fair-array) |
 | [1765-map-of-highest-peak](https://github.com/kr1xh/LeetCode/tree/master/1765-map-of-highest-peak) |
@@ -412,6 +413,7 @@
 | ------- |
 | [0952-largest-component-size-by-common-factor](https://github.com/kr1xh/LeetCode/tree/master/0952-largest-component-size-by-common-factor) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/kr1xh/LeetCode/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
+| [1584-min-cost-to-connect-all-points](https://github.com/kr1xh/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1971-find-if-path-exists-in-graph](https://github.com/kr1xh/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2076-process-restricted-friend-requests](https://github.com/kr1xh/LeetCode/tree/master/2076-process-restricted-friend-requests) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/kr1xh/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -502,6 +504,7 @@
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/kr1xh/LeetCode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/kr1xh/LeetCode/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/kr1xh/LeetCode/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
+| [1584-min-cost-to-connect-all-points](https://github.com/kr1xh/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1971-find-if-path-exists-in-graph](https://github.com/kr1xh/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2065-maximum-path-quality-of-a-graph](https://github.com/kr1xh/LeetCode/tree/master/2065-maximum-path-quality-of-a-graph) |
 | [2076-process-restricted-friend-requests](https://github.com/kr1xh/LeetCode/tree/master/2076-process-restricted-friend-requests) |
@@ -515,6 +518,7 @@
 |  |
 | ------- |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/kr1xh/LeetCode/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
+| [1584-min-cost-to-connect-all-points](https://github.com/kr1xh/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/kr1xh/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Shortest Path
 |  |
