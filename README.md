@@ -85,6 +85,7 @@
 | [0010-regular-expression-matching](https://github.com/kr1xh/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/kr1xh/LeetCode/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/kr1xh/LeetCode/tree/master/0070-climbing-stairs) |
+| [0494-target-sum](https://github.com/kr1xh/LeetCode/tree/master/0494-target-sum) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/kr1xh/LeetCode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/kr1xh/LeetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/kr1xh/LeetCode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
@@ -144,6 +145,7 @@
 | [0463-island-perimeter](https://github.com/kr1xh/LeetCode/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/kr1xh/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/kr1xh/LeetCode/tree/master/0493-reverse-pairs) |
+| [0494-target-sum](https://github.com/kr1xh/LeetCode/tree/master/0494-target-sum) |
 | [0636-exclusive-time-of-functions](https://github.com/kr1xh/LeetCode/tree/master/0636-exclusive-time-of-functions) |
 | [0645-set-mismatch](https://github.com/kr1xh/LeetCode/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/kr1xh/LeetCode/tree/master/0704-binary-search) |
@@ -252,6 +254,7 @@
 | [0077-combinations](https://github.com/kr1xh/LeetCode/tree/master/0077-combinations) |
 | [0093-restore-ip-addresses](https://github.com/kr1xh/LeetCode/tree/master/0093-restore-ip-addresses) |
 | [0401-binary-watch](https://github.com/kr1xh/LeetCode/tree/master/0401-binary-watch) |
+| [0494-target-sum](https://github.com/kr1xh/LeetCode/tree/master/0494-target-sum) |
 | [0797-all-paths-from-source-to-target](https://github.com/kr1xh/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/kr1xh/LeetCode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/kr1xh/LeetCode/tree/master/1980-find-unique-binary-string) |
