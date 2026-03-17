@@ -169,6 +169,7 @@
 | [1584-min-cost-to-connect-all-points](https://github.com/kr1xh/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1590-make-sum-divisible-by-p](https://github.com/kr1xh/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1664-ways-to-make-a-fair-array](https://github.com/kr1xh/LeetCode/tree/master/1664-ways-to-make-a-fair-array) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/kr1xh/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1765-map-of-highest-peak](https://github.com/kr1xh/LeetCode/tree/master/1765-map-of-highest-peak) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/kr1xh/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/kr1xh/LeetCode/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
@@ -186,6 +187,7 @@
 | [0860-lemonade-change](https://github.com/kr1xh/LeetCode/tree/master/0860-lemonade-change) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/kr1xh/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/kr1xh/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/kr1xh/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/kr1xh/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/kr1xh/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Hash Table
@@ -239,6 +241,7 @@
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/kr1xh/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kr1xh/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/kr1xh/LeetCode/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/kr1xh/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/kr1xh/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/kr1xh/LeetCode/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 ## Backtracking
@@ -463,6 +466,7 @@
 | [0463-island-perimeter](https://github.com/kr1xh/LeetCode/tree/master/0463-island-perimeter) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/kr1xh/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/kr1xh/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/kr1xh/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1765-map-of-highest-peak](https://github.com/kr1xh/LeetCode/tree/master/1765-map-of-highest-peak) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/kr1xh/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 ## Binary Search
