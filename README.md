@@ -54,6 +54,7 @@
 | [0067-add-binary](https://github.com/kr1xh/LeetCode/tree/master/0067-add-binary) |
 | [0093-restore-ip-addresses](https://github.com/kr1xh/LeetCode/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/kr1xh/LeetCode/tree/master/0097-interleaving-string) |
+| [0139-word-break](https://github.com/kr1xh/LeetCode/tree/master/0139-word-break) |
 | [0166-fraction-to-recurring-decimal](https://github.com/kr1xh/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0214-shortest-palindrome](https://github.com/kr1xh/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0394-decode-string](https://github.com/kr1xh/LeetCode/tree/master/0394-decode-string) |
@@ -87,6 +88,7 @@
 | [0022-generate-parentheses](https://github.com/kr1xh/LeetCode/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/kr1xh/LeetCode/tree/master/0070-climbing-stairs) |
 | [0097-interleaving-string](https://github.com/kr1xh/LeetCode/tree/master/0097-interleaving-string) |
+| [0139-word-break](https://github.com/kr1xh/LeetCode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/kr1xh/LeetCode/tree/master/0198-house-robber) |
 | [0494-target-sum](https://github.com/kr1xh/LeetCode/tree/master/0494-target-sum) |
 | [1191-k-concatenation-maximum-sum](https://github.com/kr1xh/LeetCode/tree/master/1191-k-concatenation-maximum-sum) |
@@ -140,6 +142,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/kr1xh/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kr1xh/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0135-candy](https://github.com/kr1xh/LeetCode/tree/master/0135-candy) |
+| [0139-word-break](https://github.com/kr1xh/LeetCode/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kr1xh/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0198-house-robber](https://github.com/kr1xh/LeetCode/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kr1xh/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -209,6 +212,7 @@
 | [0041-first-missing-positive](https://github.com/kr1xh/LeetCode/tree/master/0041-first-missing-positive) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kr1xh/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/kr1xh/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/kr1xh/LeetCode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/kr1xh/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0166-fraction-to-recurring-decimal](https://github.com/kr1xh/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0219-contains-duplicate-ii](https://github.com/kr1xh/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -230,6 +234,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/kr1xh/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/kr1xh/LeetCode/tree/master/0139-word-break) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/kr1xh/LeetCode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [0720-longest-word-in-dictionary](https://github.com/kr1xh/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 ## Sorting
@@ -575,4 +580,5 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/kr1xh/LeetCode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/kr1xh/LeetCode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
