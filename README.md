@@ -91,6 +91,7 @@
 | [0139-word-break](https://github.com/kr1xh/LeetCode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/kr1xh/LeetCode/tree/master/0198-house-robber) |
 | [0494-target-sum](https://github.com/kr1xh/LeetCode/tree/master/0494-target-sum) |
+| [0877-stone-game](https://github.com/kr1xh/LeetCode/tree/master/0877-stone-game) |
 | [1191-k-concatenation-maximum-sum](https://github.com/kr1xh/LeetCode/tree/master/1191-k-concatenation-maximum-sum) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/kr1xh/LeetCode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/kr1xh/LeetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
@@ -110,6 +111,7 @@
 | [0292-nim-game](https://github.com/kr1xh/LeetCode/tree/master/0292-nim-game) |
 | [0633-sum-of-square-numbers](https://github.com/kr1xh/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/kr1xh/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0877-stone-game](https://github.com/kr1xh/LeetCode/tree/master/0877-stone-game) |
 | [0932-beautiful-array](https://github.com/kr1xh/LeetCode/tree/master/0932-beautiful-array) |
 | [0952-largest-component-size-by-common-factor](https://github.com/kr1xh/LeetCode/tree/master/0952-largest-component-size-by-common-factor) |
 | [1492-the-kth-factor-of-n](https://github.com/kr1xh/LeetCode/tree/master/1492-the-kth-factor-of-n) |
@@ -167,6 +169,7 @@
 | [0815-bus-routes](https://github.com/kr1xh/LeetCode/tree/master/0815-bus-routes) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/kr1xh/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0860-lemonade-change](https://github.com/kr1xh/LeetCode/tree/master/0860-lemonade-change) |
+| [0877-stone-game](https://github.com/kr1xh/LeetCode/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/kr1xh/LeetCode/tree/master/0912-sort-an-array) |
 | [0932-beautiful-array](https://github.com/kr1xh/LeetCode/tree/master/0932-beautiful-array) |
 | [0952-largest-component-size-by-common-factor](https://github.com/kr1xh/LeetCode/tree/master/0952-largest-component-size-by-common-factor) |
@@ -601,4 +604,5 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/kr1xh/LeetCode/tree/master/0292-nim-game) |
+| [0877-stone-game](https://github.com/kr1xh/LeetCode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
