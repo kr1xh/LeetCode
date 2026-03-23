@@ -96,6 +96,7 @@
 | [0913-cat-and-mouse](https://github.com/kr1xh/LeetCode/tree/master/0913-cat-and-mouse) |
 | [1191-k-concatenation-maximum-sum](https://github.com/kr1xh/LeetCode/tree/master/1191-k-concatenation-maximum-sum) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/kr1xh/LeetCode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/kr1xh/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/kr1xh/LeetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/kr1xh/LeetCode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/kr1xh/LeetCode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
@@ -190,6 +191,7 @@
 | [1582-special-positions-in-a-binary-matrix](https://github.com/kr1xh/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1584-min-cost-to-connect-all-points](https://github.com/kr1xh/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1590-make-sum-divisible-by-p](https://github.com/kr1xh/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/kr1xh/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1664-ways-to-make-a-fair-array](https://github.com/kr1xh/LeetCode/tree/master/1664-ways-to-make-a-fair-array) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/kr1xh/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1765-map-of-highest-peak](https://github.com/kr1xh/LeetCode/tree/master/1765-map-of-highest-peak) |
@@ -502,6 +504,7 @@
 | [0463-island-perimeter](https://github.com/kr1xh/LeetCode/tree/master/0463-island-perimeter) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/kr1xh/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/kr1xh/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/kr1xh/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/kr1xh/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1765-map-of-highest-peak](https://github.com/kr1xh/LeetCode/tree/master/1765-map-of-highest-peak) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/kr1xh/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
