@@ -119,6 +119,7 @@
 | [0913-cat-and-mouse](https://github.com/kr1xh/LeetCode/tree/master/0913-cat-and-mouse) |
 | [0932-beautiful-array](https://github.com/kr1xh/LeetCode/tree/master/0932-beautiful-array) |
 | [0952-largest-component-size-by-common-factor](https://github.com/kr1xh/LeetCode/tree/master/0952-largest-component-size-by-common-factor) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/kr1xh/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1492-the-kth-factor-of-n](https://github.com/kr1xh/LeetCode/tree/master/1492-the-kth-factor-of-n) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/kr1xh/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/kr1xh/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -243,6 +244,7 @@
 | [0720-longest-word-in-dictionary](https://github.com/kr1xh/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0815-bus-routes](https://github.com/kr1xh/LeetCode/tree/master/0815-bus-routes) |
 | [0952-largest-component-size-by-common-factor](https://github.com/kr1xh/LeetCode/tree/master/0952-largest-component-size-by-common-factor) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/kr1xh/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/kr1xh/LeetCode/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kr1xh/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kr1xh/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
