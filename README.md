@@ -89,6 +89,7 @@
 | [0022-generate-parentheses](https://github.com/kr1xh/LeetCode/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/kr1xh/LeetCode/tree/master/0070-climbing-stairs) |
 | [0097-interleaving-string](https://github.com/kr1xh/LeetCode/tree/master/0097-interleaving-string) |
+| [0118-pascals-triangle](https://github.com/kr1xh/LeetCode/tree/master/0118-pascals-triangle) |
 | [0139-word-break](https://github.com/kr1xh/LeetCode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/kr1xh/LeetCode/tree/master/0198-house-robber) |
 | [0494-target-sum](https://github.com/kr1xh/LeetCode/tree/master/0494-target-sum) |
@@ -157,6 +158,7 @@
 | [0056-merge-intervals](https://github.com/kr1xh/LeetCode/tree/master/0056-merge-intervals) |
 | [0084-largest-rectangle-in-histogram](https://github.com/kr1xh/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kr1xh/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0118-pascals-triangle](https://github.com/kr1xh/LeetCode/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/kr1xh/LeetCode/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/kr1xh/LeetCode/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kr1xh/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
