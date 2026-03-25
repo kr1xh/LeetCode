@@ -98,6 +98,7 @@
 | [1191-k-concatenation-maximum-sum](https://github.com/kr1xh/LeetCode/tree/master/1191-k-concatenation-maximum-sum) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/kr1xh/LeetCode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/kr1xh/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/kr1xh/LeetCode/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/kr1xh/LeetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/kr1xh/LeetCode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/kr1xh/LeetCode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
@@ -125,6 +126,7 @@
 | [1015-smallest-integer-divisible-by-k](https://github.com/kr1xh/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1492-the-kth-factor-of-n](https://github.com/kr1xh/LeetCode/tree/master/1492-the-kth-factor-of-n) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/kr1xh/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/kr1xh/LeetCode/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/kr1xh/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kr1xh/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2485-find-the-pivot-integer](https://github.com/kr1xh/LeetCode/tree/master/2485-find-the-pivot-integer) |
@@ -647,4 +649,8 @@
 |  |
 | ------- |
 | [3546-equal-sum-grid-partition-i](https://github.com/kr1xh/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
+## Combinatorics
+|  |
+| ------- |
+| [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/kr1xh/LeetCode/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 <!---LeetCode Topics End-->
