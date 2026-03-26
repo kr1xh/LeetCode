@@ -114,6 +114,7 @@
 | [0070-climbing-stairs](https://github.com/kr1xh/LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kr1xh/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0166-fraction-to-recurring-decimal](https://github.com/kr1xh/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
+| [0204-count-primes](https://github.com/kr1xh/LeetCode/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/kr1xh/LeetCode/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/kr1xh/LeetCode/tree/master/0292-nim-game) |
 | [0633-sum-of-square-numbers](https://github.com/kr1xh/LeetCode/tree/master/0633-sum-of-square-numbers) |
@@ -165,6 +166,7 @@
 | [0139-word-break](https://github.com/kr1xh/LeetCode/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kr1xh/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0198-house-robber](https://github.com/kr1xh/LeetCode/tree/master/0198-house-robber) |
+| [0204-count-primes](https://github.com/kr1xh/LeetCode/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kr1xh/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/kr1xh/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0307-range-sum-query-mutable](https://github.com/kr1xh/LeetCode/tree/master/0307-range-sum-query-mutable) |
@@ -571,6 +573,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/kr1xh/LeetCode/tree/master/0204-count-primes) |
 | [0952-largest-component-size-by-common-factor](https://github.com/kr1xh/LeetCode/tree/master/0952-largest-component-size-by-common-factor) |
 | [1492-the-kth-factor-of-n](https://github.com/kr1xh/LeetCode/tree/master/1492-the-kth-factor-of-n) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kr1xh/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -648,6 +651,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/kr1xh/LeetCode/tree/master/0204-count-primes) |
 | [3546-equal-sum-grid-partition-i](https://github.com/kr1xh/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 ## Combinatorics
 |  |
