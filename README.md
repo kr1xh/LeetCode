@@ -117,6 +117,7 @@
 | [0166-fraction-to-recurring-decimal](https://github.com/kr1xh/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0172-factorial-trailing-zeroes](https://github.com/kr1xh/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/kr1xh/LeetCode/tree/master/0204-count-primes) |
+| [0223-rectangle-area](https://github.com/kr1xh/LeetCode/tree/master/0223-rectangle-area) |
 | [0263-ugly-number](https://github.com/kr1xh/LeetCode/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/kr1xh/LeetCode/tree/master/0292-nim-game) |
 | [0633-sum-of-square-numbers](https://github.com/kr1xh/LeetCode/tree/master/0633-sum-of-square-numbers) |
@@ -670,6 +671,7 @@
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/kr1xh/LeetCode/tree/master/0149-max-points-on-a-line) |
+| [0223-rectangle-area](https://github.com/kr1xh/LeetCode/tree/master/0223-rectangle-area) |
 | [0812-largest-triangle-area](https://github.com/kr1xh/LeetCode/tree/master/0812-largest-triangle-area) |
 | [0883-projection-area-of-3d-shapes](https://github.com/kr1xh/LeetCode/tree/master/0883-projection-area-of-3d-shapes) |
 <!---LeetCode Topics End-->
