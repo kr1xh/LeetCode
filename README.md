@@ -112,6 +112,7 @@
 | [0060-permutation-sequence](https://github.com/kr1xh/LeetCode/tree/master/0060-permutation-sequence) |
 | [0067-add-binary](https://github.com/kr1xh/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/kr1xh/LeetCode/tree/master/0070-climbing-stairs) |
+| [0149-max-points-on-a-line](https://github.com/kr1xh/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kr1xh/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0166-fraction-to-recurring-decimal](https://github.com/kr1xh/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0172-factorial-trailing-zeroes](https://github.com/kr1xh/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
@@ -167,6 +168,7 @@
 | [0118-pascals-triangle](https://github.com/kr1xh/LeetCode/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/kr1xh/LeetCode/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/kr1xh/LeetCode/tree/master/0139-word-break) |
+| [0149-max-points-on-a-line](https://github.com/kr1xh/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kr1xh/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0198-house-robber](https://github.com/kr1xh/LeetCode/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/kr1xh/LeetCode/tree/master/0204-count-primes) |
@@ -252,6 +254,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/kr1xh/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/kr1xh/LeetCode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/kr1xh/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0149-max-points-on-a-line](https://github.com/kr1xh/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0166-fraction-to-recurring-decimal](https://github.com/kr1xh/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0219-contains-duplicate-ii](https://github.com/kr1xh/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/kr1xh/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
@@ -666,6 +669,7 @@
 ## Geometry
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/kr1xh/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0812-largest-triangle-area](https://github.com/kr1xh/LeetCode/tree/master/0812-largest-triangle-area) |
 | [0883-projection-area-of-3d-shapes](https://github.com/kr1xh/LeetCode/tree/master/0883-projection-area-of-3d-shapes) |
 <!---LeetCode Topics End-->
