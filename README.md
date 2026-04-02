@@ -168,6 +168,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kr1xh/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0118-pascals-triangle](https://github.com/kr1xh/LeetCode/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/kr1xh/LeetCode/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/kr1xh/LeetCode/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/kr1xh/LeetCode/tree/master/0139-word-break) |
 | [0149-max-points-on-a-line](https://github.com/kr1xh/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kr1xh/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -388,6 +389,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/kr1xh/LeetCode/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/kr1xh/LeetCode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/kr1xh/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/kr1xh/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0401-binary-watch](https://github.com/kr1xh/LeetCode/tree/master/0401-binary-watch) |
