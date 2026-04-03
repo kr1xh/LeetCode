@@ -112,6 +112,7 @@
 | [0060-permutation-sequence](https://github.com/kr1xh/LeetCode/tree/master/0060-permutation-sequence) |
 | [0067-add-binary](https://github.com/kr1xh/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/kr1xh/LeetCode/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/kr1xh/LeetCode/tree/master/0089-gray-code) |
 | [0149-max-points-on-a-line](https://github.com/kr1xh/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kr1xh/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0166-fraction-to-recurring-decimal](https://github.com/kr1xh/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
@@ -311,6 +312,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kr1xh/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/kr1xh/LeetCode/tree/master/0022-generate-parentheses) |
 | [0077-combinations](https://github.com/kr1xh/LeetCode/tree/master/0077-combinations) |
+| [0089-gray-code](https://github.com/kr1xh/LeetCode/tree/master/0089-gray-code) |
 | [0093-restore-ip-addresses](https://github.com/kr1xh/LeetCode/tree/master/0093-restore-ip-addresses) |
 | [0401-binary-watch](https://github.com/kr1xh/LeetCode/tree/master/0401-binary-watch) |
 | [0494-target-sum](https://github.com/kr1xh/LeetCode/tree/master/0494-target-sum) |
@@ -390,6 +392,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/kr1xh/LeetCode/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/kr1xh/LeetCode/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/kr1xh/LeetCode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/kr1xh/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/kr1xh/LeetCode/tree/master/0191-number-of-1-bits) |
