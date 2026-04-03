@@ -120,6 +120,7 @@
 | [0223-rectangle-area](https://github.com/kr1xh/LeetCode/tree/master/0223-rectangle-area) |
 | [0263-ugly-number](https://github.com/kr1xh/LeetCode/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/kr1xh/LeetCode/tree/master/0292-nim-game) |
+| [0371-sum-of-two-integers](https://github.com/kr1xh/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0633-sum-of-square-numbers](https://github.com/kr1xh/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/kr1xh/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/kr1xh/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -392,6 +393,7 @@
 | [0136-single-number](https://github.com/kr1xh/LeetCode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/kr1xh/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/kr1xh/LeetCode/tree/master/0191-number-of-1-bits) |
+| [0371-sum-of-two-integers](https://github.com/kr1xh/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0401-binary-watch](https://github.com/kr1xh/LeetCode/tree/master/0401-binary-watch) |
 | [0645-set-mismatch](https://github.com/kr1xh/LeetCode/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/kr1xh/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
