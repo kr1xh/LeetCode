@@ -92,6 +92,7 @@
 | [0118-pascals-triangle](https://github.com/kr1xh/LeetCode/tree/master/0118-pascals-triangle) |
 | [0139-word-break](https://github.com/kr1xh/LeetCode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/kr1xh/LeetCode/tree/master/0198-house-robber) |
+| [0233-number-of-digit-one](https://github.com/kr1xh/LeetCode/tree/master/0233-number-of-digit-one) |
 | [0494-target-sum](https://github.com/kr1xh/LeetCode/tree/master/0494-target-sum) |
 | [0877-stone-game](https://github.com/kr1xh/LeetCode/tree/master/0877-stone-game) |
 | [0913-cat-and-mouse](https://github.com/kr1xh/LeetCode/tree/master/0913-cat-and-mouse) |
@@ -119,6 +120,7 @@
 | [0172-factorial-trailing-zeroes](https://github.com/kr1xh/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/kr1xh/LeetCode/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/kr1xh/LeetCode/tree/master/0223-rectangle-area) |
+| [0233-number-of-digit-one](https://github.com/kr1xh/LeetCode/tree/master/0233-number-of-digit-one) |
 | [0263-ugly-number](https://github.com/kr1xh/LeetCode/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/kr1xh/LeetCode/tree/master/0292-nim-game) |
 | [0371-sum-of-two-integers](https://github.com/kr1xh/LeetCode/tree/master/0371-sum-of-two-integers) |
@@ -150,6 +152,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/kr1xh/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0060-permutation-sequence](https://github.com/kr1xh/LeetCode/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/kr1xh/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0233-number-of-digit-one](https://github.com/kr1xh/LeetCode/tree/master/0233-number-of-digit-one) |
 | [0394-decode-string](https://github.com/kr1xh/LeetCode/tree/master/0394-decode-string) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/kr1xh/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Array
