@@ -459,6 +459,7 @@
 | [0700-search-in-a-binary-search-tree](https://github.com/kr1xh/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/kr1xh/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/kr1xh/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/kr1xh/LeetCode/tree/master/1080-insufficient-nodes-in-root-to-leaf-paths) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/kr1xh/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2236-root-equals-sum-of-children](https://github.com/kr1xh/LeetCode/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
@@ -469,6 +470,7 @@
 | [0743-network-delay-time](https://github.com/kr1xh/LeetCode/tree/master/0743-network-delay-time) |
 | [0797-all-paths-from-source-to-target](https://github.com/kr1xh/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/kr1xh/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/kr1xh/LeetCode/tree/master/1080-insufficient-nodes-in-root-to-leaf-paths) |
 | [1971-find-if-path-exists-in-graph](https://github.com/kr1xh/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/kr1xh/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/kr1xh/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
@@ -481,6 +483,7 @@
 | [0700-search-in-a-binary-search-tree](https://github.com/kr1xh/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/kr1xh/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/kr1xh/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/kr1xh/LeetCode/tree/master/1080-insufficient-nodes-in-root-to-leaf-paths) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/kr1xh/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2236-root-equals-sum-of-children](https://github.com/kr1xh/LeetCode/tree/master/2236-root-equals-sum-of-children) |
 ## Breadth-First Search
