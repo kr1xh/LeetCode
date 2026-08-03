@@ -98,6 +98,7 @@
 | [0913-cat-and-mouse](https://github.com/kr1xh/LeetCode/tree/master/0913-cat-and-mouse) |
 | [1191-k-concatenation-maximum-sum](https://github.com/kr1xh/LeetCode/tree/master/1191-k-concatenation-maximum-sum) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/kr1xh/LeetCode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1406-stone-game-iii](https://github.com/kr1xh/LeetCode/tree/master/1406-stone-game-iii) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/kr1xh/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/kr1xh/LeetCode/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/kr1xh/LeetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
@@ -134,6 +135,7 @@
 | [0932-beautiful-array](https://github.com/kr1xh/LeetCode/tree/master/0932-beautiful-array) |
 | [0952-largest-component-size-by-common-factor](https://github.com/kr1xh/LeetCode/tree/master/0952-largest-component-size-by-common-factor) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/kr1xh/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1406-stone-game-iii](https://github.com/kr1xh/LeetCode/tree/master/1406-stone-game-iii) |
 | [1492-the-kth-factor-of-n](https://github.com/kr1xh/LeetCode/tree/master/1492-the-kth-factor-of-n) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/kr1xh/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/kr1xh/LeetCode/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
@@ -210,6 +212,7 @@
 | [1354-construct-target-array-with-multiple-sums](https://github.com/kr1xh/LeetCode/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/kr1xh/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kr1xh/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1406-stone-game-iii](https://github.com/kr1xh/LeetCode/tree/master/1406-stone-game-iii) |
 | [1441-build-an-array-with-stack-operations](https://github.com/kr1xh/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/kr1xh/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/kr1xh/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -674,6 +677,7 @@
 | [0292-nim-game](https://github.com/kr1xh/LeetCode/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/kr1xh/LeetCode/tree/master/0877-stone-game) |
 | [0913-cat-and-mouse](https://github.com/kr1xh/LeetCode/tree/master/0913-cat-and-mouse) |
+| [1406-stone-game-iii](https://github.com/kr1xh/LeetCode/tree/master/1406-stone-game-iii) |
 ## Topological Sort
 |  |
 | ------- |
@@ -694,4 +698,12 @@
 | [0223-rectangle-area](https://github.com/kr1xh/LeetCode/tree/master/0223-rectangle-area) |
 | [0812-largest-triangle-area](https://github.com/kr1xh/LeetCode/tree/master/0812-largest-triangle-area) |
 | [0883-projection-area-of-3d-shapes](https://github.com/kr1xh/LeetCode/tree/master/0883-projection-area-of-3d-shapes) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/kr1xh/LeetCode/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/kr1xh/LeetCode/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
