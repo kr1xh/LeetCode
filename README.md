@@ -245,6 +245,7 @@
 | [3546-equal-sum-grid-partition-i](https://github.com/kr1xh/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/kr1xh/LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/kr1xh/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
+| [3731-find-missing-elements](https://github.com/kr1xh/LeetCode/tree/master/3731-find-missing-elements) |
 ## Greedy
 |  |
 | ------- |
@@ -287,6 +288,7 @@
 | [2196-create-binary-tree-from-descriptions](https://github.com/kr1xh/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2508-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/kr1xh/LeetCode/tree/master/2508-add-edges-to-make-degrees-of-all-nodes-even) |
 | [2615-sum-of-distances](https://github.com/kr1xh/LeetCode/tree/master/2615-sum-of-distances) |
+| [3731-find-missing-elements](https://github.com/kr1xh/LeetCode/tree/master/3731-find-missing-elements) |
 ## Trie
 |  |
 | ------- |
@@ -317,6 +319,7 @@
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/kr1xh/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/kr1xh/LeetCode/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/kr1xh/LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3731-find-missing-elements](https://github.com/kr1xh/LeetCode/tree/master/3731-find-missing-elements) |
 ## Backtracking
 |  |
 | ------- |
