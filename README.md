@@ -146,6 +146,7 @@
 | [2485-find-the-pivot-integer](https://github.com/kr1xh/LeetCode/tree/master/2485-find-the-pivot-integer) |
 | [3115-maximum-prime-difference](https://github.com/kr1xh/LeetCode/tree/master/3115-maximum-prime-difference) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/kr1xh/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/kr1xh/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/kr1xh/LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Recursion
 |  |
@@ -692,6 +693,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/kr1xh/LeetCode/tree/master/0204-count-primes) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/kr1xh/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/kr1xh/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 ## Combinatorics
 |  |
