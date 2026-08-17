@@ -107,6 +107,7 @@
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/kr1xh/LeetCode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1406-stone-game-iii](https://github.com/kr1xh/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/kr1xh/LeetCode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/kr1xh/LeetCode/tree/master/1563-stone-game-v) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/kr1xh/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/kr1xh/LeetCode/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/kr1xh/LeetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
@@ -148,6 +149,7 @@
 | [1406-stone-game-iii](https://github.com/kr1xh/LeetCode/tree/master/1406-stone-game-iii) |
 | [1492-the-kth-factor-of-n](https://github.com/kr1xh/LeetCode/tree/master/1492-the-kth-factor-of-n) |
 | [1510-stone-game-iv](https://github.com/kr1xh/LeetCode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/kr1xh/LeetCode/tree/master/1563-stone-game-v) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/kr1xh/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/kr1xh/LeetCode/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/kr1xh/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -232,6 +234,7 @@
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/kr1xh/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/kr1xh/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/kr1xh/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1563-stone-game-v](https://github.com/kr1xh/LeetCode/tree/master/1563-stone-game-v) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/kr1xh/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1584-min-cost-to-connect-all-points](https://github.com/kr1xh/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1590-make-sum-divisible-by-p](https://github.com/kr1xh/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
@@ -710,6 +713,7 @@
 | [1140-stone-game-ii](https://github.com/kr1xh/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/kr1xh/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/kr1xh/LeetCode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/kr1xh/LeetCode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/kr1xh/LeetCode/tree/master/2029-stone-game-ix) |
 ## Topological Sort
 |  |
