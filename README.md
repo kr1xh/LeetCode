@@ -134,6 +134,7 @@
 | [0233-number-of-digit-one](https://github.com/kr1xh/LeetCode/tree/master/0233-number-of-digit-one) |
 | [0263-ugly-number](https://github.com/kr1xh/LeetCode/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/kr1xh/LeetCode/tree/master/0292-nim-game) |
+| [0335-self-crossing](https://github.com/kr1xh/LeetCode/tree/master/0335-self-crossing) |
 | [0371-sum-of-two-integers](https://github.com/kr1xh/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0633-sum-of-square-numbers](https://github.com/kr1xh/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/kr1xh/LeetCode/tree/master/0728-self-dividing-numbers) |
@@ -200,6 +201,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/kr1xh/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/kr1xh/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0307-range-sum-query-mutable](https://github.com/kr1xh/LeetCode/tree/master/0307-range-sum-query-mutable) |
+| [0335-self-crossing](https://github.com/kr1xh/LeetCode/tree/master/0335-self-crossing) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/kr1xh/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kr1xh/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0463-island-perimeter](https://github.com/kr1xh/LeetCode/tree/master/0463-island-perimeter) |
@@ -742,6 +744,7 @@
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/kr1xh/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0223-rectangle-area](https://github.com/kr1xh/LeetCode/tree/master/0223-rectangle-area) |
+| [0335-self-crossing](https://github.com/kr1xh/LeetCode/tree/master/0335-self-crossing) |
 | [0812-largest-triangle-area](https://github.com/kr1xh/LeetCode/tree/master/0812-largest-triangle-area) |
 | [0883-projection-area-of-3d-shapes](https://github.com/kr1xh/LeetCode/tree/master/0883-projection-area-of-3d-shapes) |
 ## Minimax
