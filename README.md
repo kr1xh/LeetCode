@@ -256,6 +256,7 @@
 | [2615-sum-of-distances](https://github.com/kr1xh/LeetCode/tree/master/2615-sum-of-distances) |
 | [2906-construct-product-matrix](https://github.com/kr1xh/LeetCode/tree/master/2906-construct-product-matrix) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/kr1xh/LeetCode/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/kr1xh/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/kr1xh/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3115-maximum-prime-difference](https://github.com/kr1xh/LeetCode/tree/master/3115-maximum-prime-difference) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/kr1xh/LeetCode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
@@ -428,6 +429,7 @@
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/kr1xh/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/kr1xh/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1929-concatenation-of-array](https://github.com/kr1xh/LeetCode/tree/master/1929-concatenation-of-array) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/kr1xh/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Bit Manipulation
 |  |
 | ------- |
