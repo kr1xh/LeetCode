@@ -136,6 +136,7 @@
 | [0292-nim-game](https://github.com/kr1xh/LeetCode/tree/master/0292-nim-game) |
 | [0335-self-crossing](https://github.com/kr1xh/LeetCode/tree/master/0335-self-crossing) |
 | [0371-sum-of-two-integers](https://github.com/kr1xh/LeetCode/tree/master/0371-sum-of-two-integers) |
+| [0391-perfect-rectangle](https://github.com/kr1xh/LeetCode/tree/master/0391-perfect-rectangle) |
 | [0633-sum-of-square-numbers](https://github.com/kr1xh/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/kr1xh/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/kr1xh/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -204,6 +205,7 @@
 | [0307-range-sum-query-mutable](https://github.com/kr1xh/LeetCode/tree/master/0307-range-sum-query-mutable) |
 | [0335-self-crossing](https://github.com/kr1xh/LeetCode/tree/master/0335-self-crossing) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/kr1xh/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0391-perfect-rectangle](https://github.com/kr1xh/LeetCode/tree/master/0391-perfect-rectangle) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kr1xh/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0463-island-perimeter](https://github.com/kr1xh/LeetCode/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/kr1xh/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -300,6 +302,7 @@
 | [0149-max-points-on-a-line](https://github.com/kr1xh/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0166-fraction-to-recurring-decimal](https://github.com/kr1xh/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0219-contains-duplicate-ii](https://github.com/kr1xh/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0391-perfect-rectangle](https://github.com/kr1xh/LeetCode/tree/master/0391-perfect-rectangle) |
 | [0424-longest-repeating-character-replacement](https://github.com/kr1xh/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kr1xh/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/kr1xh/LeetCode/tree/master/0645-set-mismatch) |
@@ -751,6 +754,7 @@
 | [0149-max-points-on-a-line](https://github.com/kr1xh/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0223-rectangle-area](https://github.com/kr1xh/LeetCode/tree/master/0223-rectangle-area) |
 | [0335-self-crossing](https://github.com/kr1xh/LeetCode/tree/master/0335-self-crossing) |
+| [0391-perfect-rectangle](https://github.com/kr1xh/LeetCode/tree/master/0391-perfect-rectangle) |
 | [0812-largest-triangle-area](https://github.com/kr1xh/LeetCode/tree/master/0812-largest-triangle-area) |
 | [0883-projection-area-of-3d-shapes](https://github.com/kr1xh/LeetCode/tree/master/0883-projection-area-of-3d-shapes) |
 ## Minimax
@@ -788,4 +792,8 @@
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/kr1xh/LeetCode/tree/master/1510-stone-game-iv) |
+## Sweep Line
+|  |
+| ------- |
+| [0391-perfect-rectangle](https://github.com/kr1xh/LeetCode/tree/master/0391-perfect-rectangle) |
 <!---LeetCode Topics End-->
