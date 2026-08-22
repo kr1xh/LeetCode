@@ -137,6 +137,7 @@
 | [0335-self-crossing](https://github.com/kr1xh/LeetCode/tree/master/0335-self-crossing) |
 | [0371-sum-of-two-integers](https://github.com/kr1xh/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0391-perfect-rectangle](https://github.com/kr1xh/LeetCode/tree/master/0391-perfect-rectangle) |
+| [0478-generate-random-point-in-a-circle](https://github.com/kr1xh/LeetCode/tree/master/0478-generate-random-point-in-a-circle) |
 | [0633-sum-of-square-numbers](https://github.com/kr1xh/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/kr1xh/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/kr1xh/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -756,6 +757,7 @@
 | [0223-rectangle-area](https://github.com/kr1xh/LeetCode/tree/master/0223-rectangle-area) |
 | [0335-self-crossing](https://github.com/kr1xh/LeetCode/tree/master/0335-self-crossing) |
 | [0391-perfect-rectangle](https://github.com/kr1xh/LeetCode/tree/master/0391-perfect-rectangle) |
+| [0478-generate-random-point-in-a-circle](https://github.com/kr1xh/LeetCode/tree/master/0478-generate-random-point-in-a-circle) |
 | [0812-largest-triangle-area](https://github.com/kr1xh/LeetCode/tree/master/0812-largest-triangle-area) |
 | [0883-projection-area-of-3d-shapes](https://github.com/kr1xh/LeetCode/tree/master/0883-projection-area-of-3d-shapes) |
 ## Minimax
@@ -797,4 +799,12 @@
 |  |
 | ------- |
 | [0391-perfect-rectangle](https://github.com/kr1xh/LeetCode/tree/master/0391-perfect-rectangle) |
+## Rejection Sampling
+|  |
+| ------- |
+| [0478-generate-random-point-in-a-circle](https://github.com/kr1xh/LeetCode/tree/master/0478-generate-random-point-in-a-circle) |
+## Randomized
+|  |
+| ------- |
+| [0478-generate-random-point-in-a-circle](https://github.com/kr1xh/LeetCode/tree/master/0478-generate-random-point-in-a-circle) |
 <!---LeetCode Topics End-->
