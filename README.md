@@ -81,6 +81,7 @@
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/kr1xh/LeetCode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/kr1xh/LeetCode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/kr1xh/LeetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [1927-sum-game](https://github.com/kr1xh/LeetCode/tree/master/1927-sum-game) |
 | [1980-find-unique-binary-string](https://github.com/kr1xh/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/kr1xh/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/kr1xh/LeetCode/tree/master/2223-sum-of-scores-of-built-strings) |
@@ -157,6 +158,7 @@
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/kr1xh/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/kr1xh/LeetCode/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/kr1xh/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [1927-sum-game](https://github.com/kr1xh/LeetCode/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kr1xh/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/kr1xh/LeetCode/tree/master/2029-stone-game-ix) |
 | [2485-find-the-pivot-integer](https://github.com/kr1xh/LeetCode/tree/master/2485-find-the-pivot-integer) |
@@ -287,6 +289,7 @@
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/kr1xh/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/kr1xh/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/kr1xh/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1927-sum-game](https://github.com/kr1xh/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/kr1xh/LeetCode/tree/master/2029-stone-game-ix) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/kr1xh/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kr1xh/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -736,6 +739,7 @@
 | [1406-stone-game-iii](https://github.com/kr1xh/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/kr1xh/LeetCode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/kr1xh/LeetCode/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/kr1xh/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/kr1xh/LeetCode/tree/master/2029-stone-game-ix) |
 ## Topological Sort
 |  |
