@@ -111,6 +111,7 @@
 | [1563-stone-game-v](https://github.com/kr1xh/LeetCode/tree/master/1563-stone-game-v) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/kr1xh/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/kr1xh/LeetCode/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
+| [1872-stone-game-viii](https://github.com/kr1xh/LeetCode/tree/master/1872-stone-game-viii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/kr1xh/LeetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/kr1xh/LeetCode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/kr1xh/LeetCode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
@@ -157,6 +158,7 @@
 | [1563-stone-game-v](https://github.com/kr1xh/LeetCode/tree/master/1563-stone-game-v) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/kr1xh/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/kr1xh/LeetCode/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
+| [1872-stone-game-viii](https://github.com/kr1xh/LeetCode/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/kr1xh/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1927-sum-game](https://github.com/kr1xh/LeetCode/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kr1xh/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -254,6 +256,7 @@
 | [1664-ways-to-make-a-fair-array](https://github.com/kr1xh/LeetCode/tree/master/1664-ways-to-make-a-fair-array) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/kr1xh/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1765-map-of-highest-peak](https://github.com/kr1xh/LeetCode/tree/master/1765-map-of-highest-peak) |
+| [1872-stone-game-viii](https://github.com/kr1xh/LeetCode/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/kr1xh/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/kr1xh/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/kr1xh/LeetCode/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
@@ -581,6 +584,7 @@
 | [1140-stone-game-ii](https://github.com/kr1xh/LeetCode/tree/master/1140-stone-game-ii) |
 | [1590-make-sum-divisible-by-p](https://github.com/kr1xh/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1664-ways-to-make-a-fair-array](https://github.com/kr1xh/LeetCode/tree/master/1664-ways-to-make-a-fair-array) |
+| [1872-stone-game-viii](https://github.com/kr1xh/LeetCode/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/kr1xh/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2485-find-the-pivot-integer](https://github.com/kr1xh/LeetCode/tree/master/2485-find-the-pivot-integer) |
 | [2615-sum-of-distances](https://github.com/kr1xh/LeetCode/tree/master/2615-sum-of-distances) |
@@ -739,6 +743,7 @@
 | [1406-stone-game-iii](https://github.com/kr1xh/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/kr1xh/LeetCode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/kr1xh/LeetCode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/kr1xh/LeetCode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/kr1xh/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/kr1xh/LeetCode/tree/master/2029-stone-game-ix) |
 ## Topological Sort
@@ -773,6 +778,7 @@
 | [1140-stone-game-ii](https://github.com/kr1xh/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/kr1xh/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/kr1xh/LeetCode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/kr1xh/LeetCode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/kr1xh/LeetCode/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
@@ -780,6 +786,7 @@
 | [1140-stone-game-ii](https://github.com/kr1xh/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/kr1xh/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/kr1xh/LeetCode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/kr1xh/LeetCode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/kr1xh/LeetCode/tree/master/2029-stone-game-ix) |
 ## Z Algorithm
 |  |
