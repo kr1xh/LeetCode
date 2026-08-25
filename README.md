@@ -282,6 +282,7 @@
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/kr1xh/LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/kr1xh/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/kr1xh/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/kr1xh/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/kr1xh/LeetCode/tree/master/3731-find-missing-elements) |
 ## Greedy
 |  |
@@ -334,6 +335,7 @@
 | [2615-sum-of-distances](https://github.com/kr1xh/LeetCode/tree/master/2615-sum-of-distances) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kr1xh/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/kr1xh/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/kr1xh/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/kr1xh/LeetCode/tree/master/3731-find-missing-elements) |
 ## Trie
 |  |
