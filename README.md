@@ -89,6 +89,7 @@
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kr1xh/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kr1xh/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/kr1xh/LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/kr1xh/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -300,6 +301,7 @@
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/kr1xh/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kr1xh/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/kr1xh/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/kr1xh/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Hash Table
 |  |
 | ------- |
@@ -337,6 +339,7 @@
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kr1xh/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/kr1xh/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/kr1xh/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/kr1xh/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/kr1xh/LeetCode/tree/master/3731-find-missing-elements) |
 ## Trie
 |  |
@@ -482,6 +485,7 @@
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/kr1xh/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kr1xh/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2029-stone-game-ix](https://github.com/kr1xh/LeetCode/tree/master/2029-stone-game-ix) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/kr1xh/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -763,6 +767,7 @@
 | [0204-count-primes](https://github.com/kr1xh/LeetCode/tree/master/0204-count-primes) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/kr1xh/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/kr1xh/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/kr1xh/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Combinatorics
 |  |
 | ------- |
