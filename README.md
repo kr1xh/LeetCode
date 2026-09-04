@@ -287,6 +287,7 @@
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/kr1xh/LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/kr1xh/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3643-flip-square-submatrix-vertically](https://github.com/kr1xh/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/kr1xh/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/kr1xh/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/kr1xh/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/kr1xh/LeetCode/tree/master/3731-find-missing-elements) |
@@ -435,6 +436,7 @@
 | [0761-special-binary-string](https://github.com/kr1xh/LeetCode/tree/master/0761-special-binary-string) |
 | [0912-sort-an-array](https://github.com/kr1xh/LeetCode/tree/master/0912-sort-an-array) |
 | [0932-beautiful-array](https://github.com/kr1xh/LeetCode/tree/master/0932-beautiful-array) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/kr1xh/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -465,6 +467,7 @@
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/kr1xh/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1929-concatenation-of-array](https://github.com/kr1xh/LeetCode/tree/master/1929-concatenation-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kr1xh/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/kr1xh/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -615,6 +618,7 @@
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/kr1xh/LeetCode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/kr1xh/LeetCode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3546-equal-sum-grid-partition-i](https://github.com/kr1xh/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/kr1xh/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3903-smallest-stable-index-i](https://github.com/kr1xh/LeetCode/tree/master/3903-smallest-stable-index-i) |
 ## Quickselect
 |  |
