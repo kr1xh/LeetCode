@@ -548,6 +548,7 @@
 | [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/kr1xh/LeetCode/tree/master/1080-insufficient-nodes-in-root-to-leaf-paths) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/kr1xh/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2236-root-equals-sum-of-children](https://github.com/kr1xh/LeetCode/tree/master/2236-root-equals-sum-of-children) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kr1xh/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -558,6 +559,7 @@
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/kr1xh/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/kr1xh/LeetCode/tree/master/1080-insufficient-nodes-in-root-to-leaf-paths) |
 | [1971-find-if-path-exists-in-graph](https://github.com/kr1xh/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kr1xh/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/kr1xh/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/kr1xh/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Tree
@@ -572,6 +574,7 @@
 | [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/kr1xh/LeetCode/tree/master/1080-insufficient-nodes-in-root-to-leaf-paths) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/kr1xh/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2236-root-equals-sum-of-children](https://github.com/kr1xh/LeetCode/tree/master/2236-root-equals-sum-of-children) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kr1xh/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
 | ------- |
