@@ -177,6 +177,7 @@
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/kr1xh/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/kr1xh/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3524-find-x-value-of-array-i](https://github.com/kr1xh/LeetCode/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/kr1xh/LeetCode/tree/master/3525-find-x-value-of-array-ii) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/kr1xh/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/kr1xh/LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3871-count-commas-in-range-ii](https://github.com/kr1xh/LeetCode/tree/master/3871-count-commas-in-range-ii) |
@@ -294,6 +295,7 @@
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/kr1xh/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/kr1xh/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3524-find-x-value-of-array-i](https://github.com/kr1xh/LeetCode/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/kr1xh/LeetCode/tree/master/3525-find-x-value-of-array-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/kr1xh/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/kr1xh/LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/kr1xh/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -700,6 +702,7 @@
 | [0731-my-calendar-ii](https://github.com/kr1xh/LeetCode/tree/master/0731-my-calendar-ii) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/kr1xh/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/kr1xh/LeetCode/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
+| [3525-find-x-value-of-array-ii](https://github.com/kr1xh/LeetCode/tree/master/3525-find-x-value-of-array-ii) |
 ## Sliding Window
 |  |
 | ------- |
