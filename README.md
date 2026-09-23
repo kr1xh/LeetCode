@@ -269,6 +269,7 @@
 | [1584-min-cost-to-connect-all-points](https://github.com/kr1xh/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1590-make-sum-divisible-by-p](https://github.com/kr1xh/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/kr1xh/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kr1xh/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1664-ways-to-make-a-fair-array](https://github.com/kr1xh/LeetCode/tree/master/1664-ways-to-make-a-fair-array) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/kr1xh/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1765-map-of-highest-peak](https://github.com/kr1xh/LeetCode/tree/master/1765-map-of-highest-peak) |
@@ -356,6 +357,7 @@
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/kr1xh/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kr1xh/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1590-make-sum-divisible-by-p](https://github.com/kr1xh/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kr1xh/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1980-find-unique-binary-string](https://github.com/kr1xh/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/kr1xh/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2508-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/kr1xh/LeetCode/tree/master/2508-add-edges-to-make-degrees-of-all-nodes-even) |
@@ -627,6 +629,7 @@
 | [1140-stone-game-ii](https://github.com/kr1xh/LeetCode/tree/master/1140-stone-game-ii) |
 | [1590-make-sum-divisible-by-p](https://github.com/kr1xh/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/kr1xh/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kr1xh/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1664-ways-to-make-a-fair-array](https://github.com/kr1xh/LeetCode/tree/master/1664-ways-to-make-a-fair-array) |
 | [1872-stone-game-viii](https://github.com/kr1xh/LeetCode/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/kr1xh/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -683,6 +686,7 @@
 | [0731-my-calendar-ii](https://github.com/kr1xh/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/kr1xh/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kr1xh/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kr1xh/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/kr1xh/LeetCode/tree/master/2223-sum-of-scores-of-built-strings) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/kr1xh/LeetCode/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kr1xh/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -710,6 +714,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/kr1xh/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kr1xh/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kr1xh/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kr1xh/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/kr1xh/LeetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/kr1xh/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kr1xh/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
