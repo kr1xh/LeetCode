@@ -73,6 +73,7 @@
 | [0796-rotate-string](https://github.com/kr1xh/LeetCode/tree/master/0796-rotate-string) |
 | [0831-masking-personal-information](https://github.com/kr1xh/LeetCode/tree/master/0831-masking-personal-information) |
 | [0856-score-of-parentheses](https://github.com/kr1xh/LeetCode/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/kr1xh/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kr1xh/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1392-longest-happy-prefix](https://github.com/kr1xh/LeetCode/tree/master/1392-longest-happy-prefix) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/kr1xh/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -318,6 +319,7 @@
 | [0011-container-with-most-water](https://github.com/kr1xh/LeetCode/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/kr1xh/LeetCode/tree/master/0135-candy) |
 | [0860-lemonade-change](https://github.com/kr1xh/LeetCode/tree/master/0860-lemonade-change) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/kr1xh/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1386-cinema-seat-allocation](https://github.com/kr1xh/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/kr1xh/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/kr1xh/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -442,6 +444,7 @@
 | [0636-exclusive-time-of-functions](https://github.com/kr1xh/LeetCode/tree/master/0636-exclusive-time-of-functions) |
 | [0739-daily-temperatures](https://github.com/kr1xh/LeetCode/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/kr1xh/LeetCode/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/kr1xh/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1441-build-an-array-with-stack-operations](https://github.com/kr1xh/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/kr1xh/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/kr1xh/LeetCode/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
@@ -897,4 +900,5 @@
 |  |
 | ------- |
 | [0856-score-of-parentheses](https://github.com/kr1xh/LeetCode/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/kr1xh/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
