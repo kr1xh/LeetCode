@@ -62,6 +62,7 @@
 | [0139-word-break](https://github.com/kr1xh/LeetCode/tree/master/0139-word-break) |
 | [0166-fraction-to-recurring-decimal](https://github.com/kr1xh/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0214-shortest-palindrome](https://github.com/kr1xh/LeetCode/tree/master/0214-shortest-palindrome) |
+| [0301-remove-invalid-parentheses](https://github.com/kr1xh/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0394-decode-string](https://github.com/kr1xh/LeetCode/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/kr1xh/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0459-repeated-substring-pattern](https://github.com/kr1xh/LeetCode/tree/master/0459-repeated-substring-pattern) |
@@ -413,6 +414,7 @@
 | [0077-combinations](https://github.com/kr1xh/LeetCode/tree/master/0077-combinations) |
 | [0089-gray-code](https://github.com/kr1xh/LeetCode/tree/master/0089-gray-code) |
 | [0093-restore-ip-addresses](https://github.com/kr1xh/LeetCode/tree/master/0093-restore-ip-addresses) |
+| [0301-remove-invalid-parentheses](https://github.com/kr1xh/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0401-binary-watch](https://github.com/kr1xh/LeetCode/tree/master/0401-binary-watch) |
 | [0494-target-sum](https://github.com/kr1xh/LeetCode/tree/master/0494-target-sum) |
 | [0797-all-paths-from-source-to-target](https://github.com/kr1xh/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
@@ -598,6 +600,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/kr1xh/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0463-island-perimeter](https://github.com/kr1xh/LeetCode/tree/master/0463-island-perimeter) |
 | [0743-network-delay-time](https://github.com/kr1xh/LeetCode/tree/master/0743-network-delay-time) |
 | [0797-all-paths-from-source-to-target](https://github.com/kr1xh/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
