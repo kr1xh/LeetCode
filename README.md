@@ -184,6 +184,7 @@
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/kr1xh/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/kr1xh/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/kr1xh/LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/kr1xh/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3871-count-commas-in-range-ii](https://github.com/kr1xh/LeetCode/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/kr1xh/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/kr1xh/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -332,6 +333,7 @@
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kr1xh/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/kr1xh/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/kr1xh/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/kr1xh/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Hash Table
 |  |
 | ------- |
