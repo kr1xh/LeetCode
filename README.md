@@ -292,6 +292,7 @@
 | [2196-create-binary-tree-from-descriptions](https://github.com/kr1xh/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/kr1xh/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2615-sum-of-distances](https://github.com/kr1xh/LeetCode/tree/master/2615-sum-of-distances) |
+| [2747-count-zero-request-servers](https://github.com/kr1xh/LeetCode/tree/master/2747-count-zero-request-servers) |
 | [2906-construct-product-matrix](https://github.com/kr1xh/LeetCode/tree/master/2906-construct-product-matrix) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/kr1xh/LeetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/kr1xh/LeetCode/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
@@ -372,6 +373,7 @@
 | [2196-create-binary-tree-from-descriptions](https://github.com/kr1xh/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2508-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/kr1xh/LeetCode/tree/master/2508-add-edges-to-make-degrees-of-all-nodes-even) |
 | [2615-sum-of-distances](https://github.com/kr1xh/LeetCode/tree/master/2615-sum-of-distances) |
+| [2747-count-zero-request-servers](https://github.com/kr1xh/LeetCode/tree/master/2747-count-zero-request-servers) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/kr1xh/LeetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kr1xh/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/kr1xh/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -410,6 +412,7 @@
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/kr1xh/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/kr1xh/LeetCode/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kr1xh/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2747-count-zero-request-servers](https://github.com/kr1xh/LeetCode/tree/master/2747-count-zero-request-servers) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/kr1xh/LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3731-find-missing-elements](https://github.com/kr1xh/LeetCode/tree/master/3731-find-missing-elements) |
 ## Backtracking
@@ -735,6 +738,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kr1xh/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kr1xh/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/kr1xh/LeetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [2747-count-zero-request-servers](https://github.com/kr1xh/LeetCode/tree/master/2747-count-zero-request-servers) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/kr1xh/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kr1xh/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Suffix Array
